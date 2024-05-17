@@ -16,6 +16,8 @@ askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com#
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[id="sidebar"]
 baby.ru##[class*="hide_m"]
 baby.ru##[id="side-header"]
+! 2024-05-17 "Document the changes made between 2024-02-22 and 2024-05-17": https://github.com/dmitrii-fediuk/adblock/issues/12
+beymen.com##A[class="live-support"]
 certbot.eff.org##[class="main-nav"]
 certbot.eff.org##[class="top-bar"]
 cloud.google.com##cloudx-chat
