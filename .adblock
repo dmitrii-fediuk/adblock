@@ -86,6 +86,8 @@ realty.rbc.ru##DIV[class="topline__wrapper topline__wrapper_min"]
 reddit.com##[id="left-sidebar-container"]
 ! 2024-05-17 "Hide the right sidebar from reddit.com": https://github.com/dmitrii-fediuk/adblock/issues/10
 reddit.com##[id="right-sidebar-container"]
+! 2024-05-17 "Hide the logo from reddit.com": https://github.com/dmitrii-fediuk/adblock/issues/14
+reddit.com##FACEPLATE-TRACKER
 reprints2.forrester.com##APP-FORRESTER-HEADER
 reprints2.forrester.com##APP-FORRESTER-TOC
 reprints2.forrester.com##DIV[id="static-callout"]
