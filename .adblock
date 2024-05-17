@@ -82,6 +82,8 @@ rbc.ru##DIV[id="js_col_left"]
 realty.rbc.ru##DIV[class="l-col-left"]
 realty.rbc.ru##DIV[class="l-col-right"]
 realty.rbc.ru##DIV[class="topline__wrapper topline__wrapper_min"]
+! 2024-05-17 "Hide the lefy sidebar from reddit.com": https://github.com/dmitrii-fediuk/adblock/issues/13
+reddit.com##[id="left-sidebar-container"]
 ! 2024-05-17 "Hide the right sidebar from reddit.com": https://github.com/dmitrii-fediuk/adblock/issues/10
 reddit.com##[id="right-sidebar-container"]
 reprints2.forrester.com##APP-FORRESTER-HEADER
