@@ -134,6 +134,8 @@ twitter.com#?#DIV[data-testid="cellInnerDiv"]:-abp-has(h2[role="heading"]:-abp-h
 twitter.com#?#DIV[data-testid="cellInnerDiv"]:-abp-has(a[role="link"]:-abp-has(span:-abp-contains(View all)))
 ! 2023-08-12 "Hide the footer in Twitter": https://github.com/dmitrii-fediuk/adblock/issues/3
 twitter.com##NAV[aria-label="Footer"]
+! 2024-05-19 "Hide the sticky bottom bar from vc.ru": https://github.com/dmitrii-fediuk/adblock/issues/16
+vc.ru##DIV[class="bar bar--bottom"]
 ! 2024-05-19 "Hide the top bar from vc.ru": https://github.com/dmitrii-fediuk/adblock/issues/15
 vc.ru##DIV[class="bar bar--top"]
 ! 2024-05-19 "Hide the top banner from vc.ru": https://github.com/dmitrii-fediuk/adblock/issues/18
