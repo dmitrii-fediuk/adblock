@@ -138,6 +138,8 @@ twitter.com##NAV[aria-label="Footer"]
 vc.ru##DIV[class="bar bar--bottom"]
 ! 2024-05-19 "Hide the top bar from vc.ru": https://github.com/dmitrii-fediuk/adblock/issues/15
 vc.ru##DIV[class="bar bar--top"]
+! 2024-05-19 "Hide the sticky artice actions bottom bar from vc.ruu": https://github.com/dmitrii-fediuk/adblock/issues/17
+vc.ru##DIV[class="content__floating"]
 ! 2024-05-19 "Hide the top banner from vc.ru": https://github.com/dmitrii-fediuk/adblock/issues/18
 vc.ru##DIV[class*="rotator"]
 vc.ru##DIV[class="subsite-sidebar"]
