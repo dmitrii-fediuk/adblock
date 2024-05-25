@@ -37,6 +37,7 @@ dzen.ru##ASIDE[id="article__right"]
 ! 2024-05-25
 ! 1) "Hide the right sidebar from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/21
 ! 2) https://adblockplus.org/filter-cheatsheet#elementselection
+! 3) https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters#elemhide-emulation
 e.mail.ru#?#DIV:-abp-has(> div > div > div > div[class^="noads-button"])
 elitka.kg##DIV[class="right-banner"]
 elitka.kg##DIV[id="bs"]
