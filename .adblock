@@ -43,6 +43,8 @@ e.mail.ru##A[class^="ph-logo"]
 e.mail.ru#?#DIV:-abp-has(> div > div > div > div[class^="noads-button"])
 ! 2024-05-25 "Hide the banner above the inbox from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/22
 e.mail.ru##DIV[class^="sc-"]
+! 2024-05-25 "Hide the topmost menu from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/24
+e.mail.ru##NAV[class^="ph-projects"]
 elitka.kg##DIV[class="right-banner"]
 elitka.kg##DIV[id="bs"]
 enter.kg##[id="mibew-agent-button"]
