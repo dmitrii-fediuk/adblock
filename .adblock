@@ -65,9 +65,6 @@ lexpera.com.tr##[id="UIDocumentLinksContainer"]
 ! 2) AdBlock does not support the syntax: [id="UIDocumentToolbarContainer" class="goToTop"]
 lexpera.com.tr#?#[id="UIDocumentToolbarContainer"]:-abp-has(.goToTop)
 lionbridge.ai##ASIDE[class="single-aside desktop light-theme"]
-m.yandex.ru##DIV[class="_2-eDXxCVV9 _2o-IvkFBq6 _2C-jH-Z_ju"]
-m.yandex.ru##DIV[class="_2uc8ftKC3E"]
-m.yandex.ru##DIV[class="_3btynafwWt"]
 marieclaire.ru##DIV[class="article__aside"]
 mongodb.com##DIV[class*="m-nav-containe"]
 mongodb.com##DIV[id="event-banner"]
@@ -108,13 +105,6 @@ techcrunch.com##[id="piano-recirculation-article-footer"]
 ! 1) "Hide the right sidebar from thesaurus.com": https://github.com/dmitrii-fediuk/adblock/issues/19
 ! 2) https://adblockplus.org/filter-cheatsheet#elementselection
 thesaurus.com#?#DIV:-abp-has(> div > div > div[id^="thesaurus_right_rail"])
-tjournal.ru,vc.ru##A[class*="vk-results-of-the-year"]
-tjournal.ru,vc.ru##DIV[class*="booster-promo"]
-tjournal.ru,vc.ru##DIV[class*="dstr-fl"]
-tjournal.ru,vc.ru##DIV[class*="layout__left-column"]
-tjournal.ru,vc.ru##DIV[class*="layout__right-column"]
-tjournal.ru,vc.ru##DIV[class="sidebar"]
-tjournal.ru,vc.ru##DIV[class="site-header"]
 tp-link.com##DIV[class="tp-banner"]
 tp-link.com##DIV[id="tp-home-new"]
 trends.rbc.ru##DIV[class="article__next-page js-news-next-el active"]
