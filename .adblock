@@ -109,6 +109,7 @@ techcrunch.com##[id="piano-recirculation-article-footer"]
 ! 2024-05-25
 ! 1) "Hide the right sidebar from thesaurus.com": https://github.com/dmitrii-fediuk/adblock/issues/19
 ! 2) https://adblockplus.org/filter-cheatsheet#elementselection
+! 3) https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters#elemhide-emulation
 thesaurus.com#?#DIV:-abp-has(> div > div > div[id^="thesaurus_right_rail"])
 tp-link.com##DIV[class="tp-banner"]
 tp-link.com##DIV[id="tp-home-new"]
