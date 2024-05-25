@@ -34,16 +34,18 @@ docs.aws.amazon.com##[class="awsdocs-local-nav-header"]
 docs.aws.amazon.com##[class="awsdocs-page-header-container"]
 docs.aws.amazon.com##awsdocs-thumb-feedback
 dzen.ru##ASIDE[id="article__right"]
-! 2024-05-25 "Hide the logo from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/23
+! 2024-05-26 "Hide the logo from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/23
 e.mail.ru##A[class^="ph-logo"]
 ! 2024-05-25
 ! 1) "Hide the right sidebar from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/21
 ! 2) https://adblockplus.org/filter-cheatsheet#elementselection
 ! 3) https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters#elemhide-emulation
 e.mail.ru#?#DIV:-abp-has(> div > div > div > div[class^="noads-button"])
+! 2024-05-26 "Hide the top-right widgets dropdownu from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/25
+e.mail.ru##DIV[class*="ph-project-widgets"]
 ! 2024-05-25 "Hide the banner above the inbox from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/22
 e.mail.ru##DIV[class^="sc-"]
-! 2024-05-25 "Hide the topmost menu from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/24
+! 2024-05-26 "Hide the topmost menu from e.mail.ru": https://github.com/dmitrii-fediuk/adblock/issues/24
 e.mail.ru##NAV[class^="ph-projects"]
 elitka.kg##DIV[class="right-banner"]
 elitka.kg##DIV[id="bs"]
