@@ -104,8 +104,10 @@ techcrunch.com##[class="newsletter-signup-block"]
 techcrunch.com##[class="piano-inline-promo"]
 techcrunch.com##[class="piano-ribbon-container"]
 techcrunch.com##[id="piano-recirculation-article-footer"]
-! 2024-05-25 "ide the right sidebar from thesaurus.com": https://github.com/dmitrii-fediuk/adblock/issues/19
-thesaurus.com#?#DIV:-abp-has(> div > div > div[id="thesaurus_right_rail_300x250_flex_2"])
+! 2024-05-25
+! 1) "Hide the right sidebar from thesaurus.com": https://github.com/dmitrii-fediuk/adblock/issues/19
+! 2) https://adblockplus.org/filter-cheatsheet#elementselection
+thesaurus.com#?#DIV:-abp-has(> div > div > div[id^="thesaurus_right_rail"])
 tjournal.ru,vc.ru##A[class*="vk-results-of-the-year"]
 tjournal.ru,vc.ru##DIV[class*="booster-promo"]
 tjournal.ru,vc.ru##DIV[class*="dstr-fl"]
