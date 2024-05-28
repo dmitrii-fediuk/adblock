@@ -30,7 +30,7 @@ consultant.ru##[id="headDiv"]
 dev.to##ASIDE[class="crayons-layout__sidebar-right"]
 dev.to##HEADER[class="crayons-header print-hidden"]
 ! 2024-05-28 "Hide the sticky bottom bar from developer.adobe.com": https://github.com/dmitrii-fediuk/adblock/issues/26
-developer.adobe.comDIV##[class="css-donbax"]
+developer.adobe.com##DIV[class="css-donbax"]
 docs.aws.amazon.com##[class="awsdocs-header"]
 docs.aws.amazon.com##[class="awsdocs-local-nav-header"]
 docs.aws.amazon.com##[class="awsdocs-page-header-container"]
