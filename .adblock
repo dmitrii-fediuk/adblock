@@ -21,6 +21,8 @@ beymen.com##A[class="live-support"]
 certbot.eff.org##[class="main-nav"]
 certbot.eff.org##[class="top-bar"]
 cloud.google.com##cloudx-chat
+! 2024-05-29 "Hide the sticky header from community.atlassian.com": https://github.com/dmitrii-fediuk/adblock/issues/28
+community.atlassian.com##[class$="lia-quilt-row-atl-global-header"]
 community.upwork.com##[class*="lia-quilt-column-side-content"]
 community.upwork.com##[id="support-bot-widget"]
 consultant.ru##[class*="rightPanel"]
