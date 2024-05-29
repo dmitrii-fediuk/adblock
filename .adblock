@@ -63,7 +63,7 @@ habr.com##DIV[class*="promo-block"]
 habr.com##DIV[class="main-navbar"]
 habr.com##DIV[class="page-header__banner"]
 ! 2024-05-29 "Hide the bottom sticky panel from habr.com": https://github.com/dmitrii-fediuk/adblock/issues/27
-habr.com##DIV[class="tm-article-sticky-panel"]
+habr.com##DIV[class*="tm-article-sticky-panel"]
 habr.com##DIV[class="tm-page__sidebar"]
 habr.com##SPAN[class="refresh"]
 heictojpg.com##DIV[class="video-container"]
