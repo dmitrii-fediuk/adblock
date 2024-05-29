@@ -25,6 +25,8 @@ cloud.google.com##cloudx-chat
 community.atlassian.com##[class$="lia-quilt-row-atl-global-header"]
 ! 2024-05-29 "Hide the top banner from community.atlassian.com": https://github.com/dmitrii-fediuk/adblock/issues/29
 community.atlassian.com##[class$="lia-quilt-row-atl-message-view-hero"]
+! 2024-05-29 "Hide the right sidebar from community.atlassian.com": https://github.com/dmitrii-fediuk/adblock/issues/30
+community.atlassian.com##[class$="lia-quilt-row-atl-message-view-sidebar"]
 community.upwork.com##[class*="lia-quilt-column-side-content"]
 community.upwork.com##[id="support-bot-widget"]
 consultant.ru##[class*="rightPanel"]
