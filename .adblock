@@ -95,7 +95,7 @@ marieclaire.ru##DIV[class="article__aside"]
 mongodb.com##DIV[class*="m-nav-containe"]
 mongodb.com##DIV[id="event-banner"]
 normativ.kontur.ru##DIV[id="documentTopBar-root"]
-! 2024-05-17 "Hide the right sidebar from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/32
+! 2024-05-30 "Hide the right sidebar from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/32
 pikabu.ru##[class="sidebar sidebar_right"]
 quora.com##[aria-label="Go to Quora Home"]
 quora.com##[aria-label="Home"]
