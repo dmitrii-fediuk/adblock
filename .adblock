@@ -65,6 +65,8 @@ forums.tomshardware.com##NAV[class="p-nav"]
 forums.tomshardware.com##UL[class*="notices"]
 gartner.com##DIV[class="widget-area"]
 gatesnotes.com##DIV[class="TGN_site_Slideheader"]
+! 2024-05-30 "Hide the «Scroll up» sticky button from gokcekmarket.com": https://github.com/dmitrii-fediuk/adblock/issues/38
+gokcekmarket.com##A[id="scrollUp"]
 ! 2024-05-30 "Hide the chat from gokcekmarket.com": https://github.com/dmitrii-fediuk/adblock/issues/37
 gokcekmarket.com##IFRAME[title="Opens a widget where you can chat to one of our agents"]
 habr.com##DIV[class*="layout__row_services"]
