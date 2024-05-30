@@ -11,8 +11,9 @@ askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com#
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##LI[class*="site-switcher-item"]
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[class="bottom-notice"]
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[class="site-header"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[id="left-sidebar"]
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[id="search"]
+! 2024-05-30 "Hide sidebars on Stack Exchange": https://github.com/dmitrii-fediuk/adblock/issues/31
+askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[id="left-sidebar"]
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[id="sidebar"]
 baby.ru##[class*="hide_m"]
 baby.ru##[id="side-header"]
