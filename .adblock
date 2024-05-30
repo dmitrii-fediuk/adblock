@@ -101,6 +101,8 @@ pikabu.ru##[class="sidebar sidebar_right"]
 pikabu.ru##[class^="scroll-up-button"]
 ! 2024-05-30 "Hide the left sidebar from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/33
 pikabu.ru##[class^="story__left"]
+! 2024-05-30 "Hide the «Theme picker» sticky block from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/34
+pikabu.ru##[class^="theme-picker"]
 quora.com##[aria-label="Go to Quora Home"]
 quora.com##[aria-label="Home"]
 rbc.ru##DIV[class="subscription-popup js-subscription-popup js-yandex-counter"]
