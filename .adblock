@@ -122,6 +122,8 @@ pubmed.ncbi.nlm.nih.gov##[id="ncbi-footer"]
 pubmed.ncbi.nlm.nih.gov##A[class="pubmed-logo"]
 ! 2024-06-08 "Hide the «Create alert» link from the PubMed search block": https://github.com/dmitrii-fediuk/adblock/issues/50
 pubmed.ncbi.nlm.nih.gov##A[id="search-create-alert"]
+! 2024-06-08 "Hide the «Create RSS» link from the PubMed search block": https://github.com/dmitrii-fediuk/adblock/issues/51
+pubmed.ncbi.nlm.nih.gov##A[id="search-create-rss"]
 ! 2024-06-08 "Hide the right sidebar from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/48
 pubmed.ncbi.nlm.nih.gov##ASIDE[class="page-sidebar"]
 ! 2024-06-08 "Hide the blue footer from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/41
