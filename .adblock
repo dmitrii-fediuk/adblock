@@ -128,6 +128,8 @@ pubmed.ncbi.nlm.nih.gov##A[class="pubmed-logo"]
 pubmed.ncbi.nlm.nih.gov##FOOTER
 ! 2024-06-08 "Hide the blue header from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/40
 pubmed.ncbi.nlm.nih.gov##HEADER[class="ncbi-header"]
+! 2024-06-08 "Hide the «PAGE NAVIGATION» sidebar block from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/47
+pubmed.ncbi.nlm.nih.gov##NAV[class="page-navigator"]
 ! 2024-06-08 "Hide the «An official website of the United States government» banner from PubMed":
 ! https://github.com/dmitrii-fediuk/adblock/issues/39
 pubmed.ncbi.nlm.nih.gov##SECTION[class="usa-banner"]
