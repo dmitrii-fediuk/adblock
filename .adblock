@@ -114,10 +114,6 @@ pikabu.ru##[class^="scroll-up-button"]
 pikabu.ru##[class^="story__left"]
 ! 2024-05-30 "Hide the «Theme picker» sticky block from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/34
 pikabu.ru##[class^="theme-picker"]
-! 2024-06-08 "Hide the `actions-buttons` sidebar block from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/45
-pubmed.ncbi.nlm.nih.gov##[class^="actions-buttons"]
-! 2024-06-08 "Hide the `social-sharing` sidebar block from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/46
-pubmed.ncbi.nlm.nih.gov##[class="social-sharing"]
 ! 2024-06-08 "Hide `article-page-header` from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/44
 pubmed.ncbi.nlm.nih.gov##[id="article-page-header"]
 ! 2024-06-08 "Hide the gray footer from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/42
@@ -128,8 +124,8 @@ pubmed.ncbi.nlm.nih.gov##A[class="pubmed-logo"]
 pubmed.ncbi.nlm.nih.gov##FOOTER
 ! 2024-06-08 "Hide the blue header from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/40
 pubmed.ncbi.nlm.nih.gov##HEADER[class="ncbi-header"]
-! 2024-06-08 "Hide the «PAGE NAVIGATION» sidebar block from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/47
-pubmed.ncbi.nlm.nih.gov##NAV[class="page-navigator"]
+! 2024-06-08 "Hide the right sidebar from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/48
+pubmed.ncbi.nlm.nih.gov##ASIDE[class="page-sidebar"]
 ! 2024-06-08 "Hide the «An official website of the United States government» banner from PubMed":
 ! https://github.com/dmitrii-fediuk/adblock/issues/39
 pubmed.ncbi.nlm.nih.gov##SECTION[class="usa-banner"]
