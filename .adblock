@@ -127,7 +127,7 @@ pubmed.ncbi.nlm.nih.gov##FOOTER
 ! 2024-06-08
 ! 1) "Hide the blue header from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/40
 ! 2) https://stackoverflow.com/a/15503444
-pubmed.ncbi.nlm.nih.gov#?#FORM:-abp-has(+ [id="article-page-header"])
+pubmed.ncbi.nlm.nih.gov#?#FORM:-abp-has(~ [id="article-page-header"])
 ! 2024-06-08 "Hide the blue header from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/40
 pubmed.ncbi.nlm.nih.gov##HEADER[class="ncbi-header"]
 ! 2024-06-08 "Hide the «An official website of the United States government» banner from PubMed":
