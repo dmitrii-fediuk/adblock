@@ -114,6 +114,8 @@ pikabu.ru##[class^="scroll-up-button"]
 pikabu.ru##[class^="story__left"]
 ! 2024-05-30 "Hide the «Theme picker» sticky block from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/34
 pikabu.ru##[class^="theme-picker"]
+! 2024-06-08 "Hide the logo from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/43
+pubmed.ncbi.nlm.nih.gov##A[class="pubmed-logo"]
 ! 2024-06-08 "Hide the gray footer from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/42
 pubmed.ncbi.nlm.nih.gov##DIV[id="ncbi-footer"]
 ! 2024-06-08 "Hide the blue footer from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/41
