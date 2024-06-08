@@ -117,6 +117,8 @@ pikabu.ru##[class^="theme-picker"]
 ! 2024-06-08 "Hide the «An official website of the United States government» banner from PubMed":
 ! https://github.com/dmitrii-fediuk/adblock/issues/39
 pubmed.ncbi.nlm.nih.gov##SECTION[class="usa-banner"]
+! 2024-06-08 "Hide the blue header from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/40
+pubmed.ncbi.nlm.nih.gov##HEADER[class="ncbi-header"]
 quora.com##[aria-label="Go to Quora Home"]
 quora.com##[aria-label="Home"]
 rbc.ru##DIV[class="subscription-popup js-subscription-popup js-yandex-counter"]
