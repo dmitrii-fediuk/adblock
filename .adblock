@@ -116,6 +116,8 @@ pikabu.ru##[class^="story__left"]
 pikabu.ru##[class^="theme-picker"]
 ! 2024-06-08 "Hide the `actions-buttons` sidebar block from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/45
 pubmed.ncbi.nlm.nih.gov##[class^="actions-buttons"]
+! 2024-06-08 "Hide the `social-sharing` sidebar block from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/46
+pubmed.ncbi.nlm.nih.gov##[class="social-sharing"]
 ! 2024-06-08 "Hide `article-page-header` from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/44
 pubmed.ncbi.nlm.nih.gov##[id="article-page-header"]
 ! 2024-06-08 "Hide the gray footer from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/42
