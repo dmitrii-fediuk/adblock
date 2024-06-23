@@ -27,6 +27,8 @@ club.dns-shop.ru##ASIDE
 ! 2024-06-24 "Hide the header from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/54
 club.dns-shop.ru##HEADER
 club.dns-shop.ru##[class="header-space"]
+! 2024-06-24 "Hide the footer from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/57
+club.dns-shop.ru##[class="footer"]
 ! 2024-06-24 "Hide the «Популярные» block from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/55
 club.dns-shop.ru##[class="most-popular-widget"]
 ! 2024-06-24 "Hide the «Читайте также» block from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/56
