@@ -26,6 +26,7 @@ cloud.google.com##cloudx-chat
 club.dns-shop.ru##ASIDE
 ! 2024-06-24 "Hide the header from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/54
 club.dns-shop.ru##HEADER
+club.dns-shop.ru##[class="header-space"]
 ! 2024-05-29 "Hide the sticky header from community.atlassian.com": https://github.com/dmitrii-fediuk/adblock/issues/28
 community.atlassian.com##[class$="lia-quilt-row-atl-global-header"]
 ! 2024-05-29 "Hide the top banner from community.atlassian.com": https://github.com/dmitrii-fediuk/adblock/issues/29
