@@ -169,6 +169,8 @@ reddit.com##[id="left-sidebar-container"]
 reddit.com##[id="reddit-logo"]
 ! 2024-05-17 "Hide the right sidebar from reddit.com": https://github.com/dmitrii-fediuk/adblock/issues/10
 reddit.com##[id="right-sidebar-container"]
+! 2024-06-24 "Hide the chat button from Reddit": https://github.com/dmitrii-fediuk/adblock/issues/61
+reddit.com##[data-part="chat"]
 reprints2.forrester.com##APP-FORRESTER-HEADER
 reprints2.forrester.com##APP-FORRESTER-TOC
 reprints2.forrester.com##DIV[id="static-callout"]
