@@ -32,6 +32,8 @@ club.dns-shop.ru##[class="footer"]
 ! 2024-06-24 "Hide the «Популярные» block from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/55
 club.dns-shop.ru##[class="most-popular-widget"]
 ! 2024-06-24 "Hide the «Читайте также» block from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/56
+club.dns-shop.ru##[class="read-more-widget"]
+! 2024-06-24 "Hide the «Читайте также» block from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/56
 club.dns-shop.ru##[class="scroll-up-btn"]
 ! 2024-06-24 "Hide the «Scroll Up» button from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/58
 club.dns-shop.ru##[class="footer"]
