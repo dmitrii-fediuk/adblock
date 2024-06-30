@@ -19,6 +19,8 @@ baby.ru##[class*="hide_m"]
 baby.ru##[id="side-header"]
 ! 2024-05-17 "Document the changes made between 2024-02-22 and 2024-05-17": https://github.com/dmitrii-fediuk/adblock/issues/12
 beymen.com##A[class="live-support"]
+! 2024-06-30 "Hide the scrolling text from bisse.com": https://github.com/dmitrii-fediuk/adblock/issues/62
+bisse.com##[class="smart-widget-container-div"]
 certbot.eff.org##[class="main-nav"]
 certbot.eff.org##[class="top-bar"]
 cloud.google.com##cloudx-chat
