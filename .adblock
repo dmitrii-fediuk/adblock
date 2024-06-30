@@ -28,6 +28,8 @@ cloud.google.com##cloudx-chat
 cloudways.com##[class^="blog-navs-main-wrap"]
 ! 2024-07-01 "Hide the sticky footer from `cloudways.com/blog`": https://github.com/dmitrii-fediuk/adblock/issues/64
 cloudways.com##[class="post_shrBtn_topBox"]
+! 2024-07-01 Hide in-article advertisements from `cloudways.com/blog``": https://github.com/dmitrii-fediuk/adblock/issues/66
+cloudways.com##SECTION[class*="inline-cta"]
 ! 2024-07-01 "Hide the sticky chat icon from `cloudways.com/blog`": https://github.com/dmitrii-fediuk/adblock/issues/65
 cloudways.com##[id="teconsent"]
 ! 2024-06-24 "Hide the left sidebar from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/53
