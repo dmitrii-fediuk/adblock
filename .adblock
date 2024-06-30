@@ -26,6 +26,8 @@ certbot.eff.org##[class="top-bar"]
 cloud.google.com##cloudx-chat
 ! 2024-07-01 "Hide the sticky header from `cloudways.com/blog`": https://github.com/dmitrii-fediuk/adblock/issues/63
 cloudways.com##[class^="blog-navs-main-wrap"]
+! 2024-07-01 "Hide the sticky footer from `cloudways.com/blog`": https://github.com/dmitrii-fediuk/adblock/issues/64
+cloudways.com##[class="post_shrBtn_topBox"]
 ! 2024-06-24 "Hide the left sidebar from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/53
 club.dns-shop.ru##ASIDE
 ! 2024-06-24 "Hide the header from `club.dns-shop.ru`": https://github.com/dmitrii-fediuk/adblock/issues/54
