@@ -60,6 +60,7 @@ community.atlassian.com##[class$="lia-quilt-column-atl-message-view-sidebar"]
 ! 2024-07-01 "Hide the sticky header from `community.cloudflare.com`": https://github.com/dmitrii-fediuk/adblock/issues/68
 community.cloudflare.com##[class*="above-site-header-outlet"]
 community.cloudflare.com##[class*="below-site-header-outlet"]
+community.cloudflare.com##[class^="d-header-wrap"]
 community.upwork.com##[class*="lia-quilt-column-side-content"]
 community.upwork.com##[id="support-bot-widget"]
 consultant.ru##[class*="rightPanel"]
