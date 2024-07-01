@@ -57,6 +57,8 @@ community.atlassian.com##[class$="lia-quilt-row-atl-global-header"]
 community.atlassian.com##[class$="lia-quilt-row-atl-message-view-hero"]
 ! 2024-05-29 "Hide the right sidebar from community.atlassian.com": https://github.com/dmitrii-fediuk/adblock/issues/30
 community.atlassian.com##[class$="lia-quilt-column-atl-message-view-sidebar"]
+! 2024-07-01 "Hide the sticky header from `community.cloudflare.com`": https://github.com/dmitrii-fediuk/adblock/issues/68
+community.cloudflare.com##[class*="below-site-header-outlet"]
 community.upwork.com##[class*="lia-quilt-column-side-content"]
 community.upwork.com##[id="support-bot-widget"]
 consultant.ru##[class*="rightPanel"]
