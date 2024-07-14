@@ -113,6 +113,8 @@ habr.com##DIV[class*="tm-article-sticky-panel"]
 habr.com##DIV[class="tm-page__sidebar"]
 habr.com##SPAN[class="refresh"]
 heictojpg.com##DIV[class="video-container"]
+! 2024-07-15 "Hide the header from `hub.justuno.com`": https://github.com/dmitrii-fediuk/adblock/issues/69
+hub.justuno.com##HEADER
 jetbrains.com##HEADER[class="app__header"]
 kaktus.media##DIV[class="Article--block-banner"]
 lalafo.kg##DIV[class="css-1upphps"]
