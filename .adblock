@@ -116,6 +116,8 @@ heictojpg.com##DIV[class="video-container"]
 ! 2024-07-15 "Hide the header from `hub.justuno.com`": https://github.com/dmitrii-fediuk/adblock/issues/69
 hub.justuno.com##HEADER
 jetbrains.com##HEADER[class="app__header"]
+! 2024-07-15 "Hide the sticky chat icon from `justuno.com`": https://github.com/dmitrii-fediuk/adblock/issues/70
+justuno.com##DIV[class="widget"]
 kaktus.media##DIV[class="Article--block-banner"]
 lalafo.kg##DIV[class="css-1upphps"]
 ! 2023-10-19 "Hide the «Additional resources» column from learn.microsoft.com":
