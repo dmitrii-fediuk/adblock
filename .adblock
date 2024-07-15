@@ -115,6 +115,8 @@ habr.com##SPAN[class="refresh"]
 heictojpg.com##DIV[class="video-container"]
 ! 2024-07-15 "Hide the header from `hub.justuno.com`": https://github.com/dmitrii-fediuk/adblock/issues/69
 hub.justuno.com##HEADER
+! 2024-07-15 "Hide the left sidebar from `hub.justuno.com`": https://github.com/dmitrii-fediuk/adblock/issues/71
+hub.justuno.com##[class="kb-sidebar"]
 jetbrains.com##HEADER[class="app__header"]
 ! 2024-07-15 "Hide the sticky chat icon from `justuno.com`": https://github.com/dmitrii-fediuk/adblock/issues/70
 justuno.com##DIV[class="widget"]
