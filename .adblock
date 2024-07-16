@@ -139,6 +139,8 @@ marieclaire.ru##DIV[class="article__aside"]
 mongodb.com##DIV[class*="m-nav-containe"]
 mongodb.com##DIV[id="event-banner"]
 normativ.kontur.ru##DIV[id="documentTopBar-root"]
+! 2024-07-16 "Hide the sticky chat icon from `openvpn.net`": https://github.com/dmitrii-fediuk/adblock/issues/73
+openvpn.net##DIV[style="visibility: visible;"]
 ! 2024-05-30 "Hide the right sidebar from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/36
 pikabu.ru##[class$="header-right-menu__search"]
 pikabu.ru##[class*="header-right-menu__add"]
