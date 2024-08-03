@@ -206,6 +206,8 @@ smsbower.com##[class="carousel slide"]
 ! 2024-08-03 "Hide the sticky chat controls from `support.weltpixel.com`": https://github.com/dmitrii-fediuk/adblock/issues/76
 support.weltpixel.com##[id="chatbase-bubble-button"]
 support.weltpixel.com##[id="chatbase-message-bubbles"]
+! 2024-08-03 "Hide the left sidebar from `support.weltpixel.com`": https://github.com/dmitrii-fediuk/adblock/issues/77
+support.weltpixel.com##[class="article-sidebar"]
 ! 2024-08-03 "Hide the sticky header from `support.weltpixel.com`": https://github.com/dmitrii-fediuk/adblock/issues/75
 support.weltpixel.com##[class*="sticky_header"]
 techcrunch.com##ARTICLE[class*="post-block"]
