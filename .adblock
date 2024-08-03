@@ -203,6 +203,8 @@ reprints2.forrester.com##APP-FORRESTER-TOC
 reprints2.forrester.com##DIV[id="static-callout"]
 ! 2024-05-17 "Document the changes made between 2024-02-22 and 2024-05-17": https://github.com/dmitrii-fediuk/adblock/issues/12
 smsbower.com##[class="carousel slide"]
+! 2024-08-03 "Hide the sticky header from `support.weltpixel.com`": https://github.com/dmitrii-fediuk/adblock/issues/75
+support.weltpixel.com[class*="sticky_header"]
 techcrunch.com##ARTICLE[class*="post-block"]
 techcrunch.com##ASIDE
 techcrunch.com##FOOTER[class="article-footer "]
