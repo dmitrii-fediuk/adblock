@@ -95,6 +95,8 @@ elitka.kg##DIV[class="right-banner"]
 elitka.kg##DIV[id="bs"]
 ! 2024-08-05 "Hide the left sidebar from `endoflife.date`": https://github.com/dmitrii-fediuk/adblock/issues/79
 endoflife.date##[class="side-bar"]
+! 2024-08-05 "Hide the sticky search button from `endoflife.date`": https://github.com/dmitrii-fediuk/adblock/issues/80
+endoflife.date##[id="search-button"]
 enter.kg##[id="mibew-agent-button"]
 forums.tomshardware.com##DIV[class="p-body-sidebar"]
 forums.tomshardware.com##LI[class*="notice"]
