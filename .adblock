@@ -129,8 +129,6 @@ justuno.com##DIV[class="widget"]
 justuno.com##[id="hubspot-messages-iframe-container"]
 kaktus.media##DIV[class="Article--block-banner"]
 lalafo.kg##DIV[class="css-1upphps"]
-! 2024-08-18 "Hide the left sidebar from `learn.microsoft.com`: https://github.com/dmitrii-fediuk/adblock/issues/83
-learn.microsoft.com##[id="left-container"]
 ! 2023-10-19 "Hide the «Additional resources» column from learn.microsoft.com":
 ! https://github.com/dmitrii-fediuk/adblock/issues/8
 learn.microsoft.com##[id="ms--additional-resources"]
