@@ -145,8 +145,6 @@ normativ.kontur.ru##DIV[id="documentTopBar-root"]
 ! 2024-07-16 "Hide the sticky chat icon from `openvpn.net`": https://github.com/dmitrii-fediuk/adblock/issues/73
 openvpn.net##DIV[style="visibility: visible;"]
 pikabu.ru##[id="specials"]
-! 2024-05-30 "Hide the right sidebar from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/32
-pikabu.ru##[class="sidebar sidebar_right"]
 ! 2024-05-30 "Hide the «Scroll up» sidebar from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/34
 pikabu.ru##[class^="scroll-up-button"]
 ! 2024-05-30 "Hide the left sidebar from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/33
