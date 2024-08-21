@@ -151,7 +151,7 @@ pikabu.ru##[class*="header-right-menu__notification"]
 pikabu.ru##[class="header__item header__logo"]
 pikabu.ru##[class="header__item header__menu"]
 !2024-08-21 "Hide the header from `pikabu.ru`": https://github.com/dmitrii-fediuk/adblock/issues/84
-pikabu.ru##HEADER
+pikabu.ru##HEADER[class='header']
 pikabu.ru##[id="specials"]
 ! 2024-05-30 "Hide the right sidebar from pikabu.ru": https://github.com/dmitrii-fediuk/adblock/issues/32
 pikabu.ru##[class="sidebar sidebar_right"]
