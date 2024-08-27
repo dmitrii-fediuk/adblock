@@ -151,26 +151,26 @@ pikabu.ru##[class^="scroll-up-button"]
 pikabu.ru##[class^="story__left"]
 ! 2024-06-08 "Hide the `multiple-results-actions` block from PubMed search results":
 ! https://github.com/dmitrii-fediuk/adblock/issues/52
-pubmed.ncbi.nlm.nih.gov##[class^="multiple-results-actions"]
+ncbi.nlm.nih.gov##[class^="multiple-results-actions"]
 ! 2024-06-08 "Hide `article-page-header` from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/44
-pubmed.ncbi.nlm.nih.gov##[id="article-page-header"]
+ncbi.nlm.nih.gov##[id="article-page-header"]
 ! 2024-06-08 "Hide the gray footer from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/42
-pubmed.ncbi.nlm.nih.gov##[id="ncbi-footer"]
+ncbi.nlm.nih.gov##[id="ncbi-footer"]
 ! 2024-06-08 "Hide the logo from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/43
-pubmed.ncbi.nlm.nih.gov##A[class="pubmed-logo"]
+ncbi.nlm.nih.gov##A[class="pubmed-logo"]
 ! 2024-06-08 "Hide the «Create alert» link from the PubMed search block": https://github.com/dmitrii-fediuk/adblock/issues/50
-pubmed.ncbi.nlm.nih.gov##A[id="search-create-alert"]
+ncbi.nlm.nih.gov##A[id="search-create-alert"]
 ! 2024-06-08 "Hide the «Create RSS» link from the PubMed search block": https://github.com/dmitrii-fediuk/adblock/issues/51
-pubmed.ncbi.nlm.nih.gov##A[id="search-create-rss"]
+ncbi.nlm.nih.gov##A[id="search-create-rss"]
 ! 2024-06-08 "Hide the right sidebar from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/48
-pubmed.ncbi.nlm.nih.gov##ASIDE[class="page-sidebar"]
+ncbi.nlm.nih.gov##ASIDE[class="page-sidebar"]
 ! 2024-06-08 "Hide the blue footer from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/41
-pubmed.ncbi.nlm.nih.gov##FOOTER
+ncbi.nlm.nih.gov##FOOTER
 ! 2024-06-08 "Hide the blue header from PubMed": https://github.com/dmitrii-fediuk/adblock/issues/40
-pubmed.ncbi.nlm.nih.gov##HEADER[class="ncbi-header"]
+ncbi.nlm.nih.gov##HEADER[class="ncbi-header"]
 ! 2024-06-08 "Hide the «An official website of the United States government» banner from PubMed":
 ! https://github.com/dmitrii-fediuk/adblock/issues/39
-pubmed.ncbi.nlm.nih.gov##SECTION[class="usa-banner"]
+ncbi.nlm.nih.gov##SECTION[class="usa-banner"]
 quora.com##[aria-label="Go to Quora Home"]
 quora.com##[aria-label="Home"]
 rbc.ru##DIV[class="subscription-popup js-subscription-popup js-yandex-counter"]
