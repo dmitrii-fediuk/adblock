@@ -2,19 +2,6 @@
 ! https://help.adblockplus.org/hc/en-us/articles/360062733293
 ! https://adblockplus.org/filter-cheatsheet
 alanstorm.com##footer
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##A[class*="-logo"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##A[class*="-marketing-link"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##DIV[class*="aside-cta"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##FOOTER
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##LI[class*="help-button-item"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##LI[class*="review-button-item"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##LI[class*="site-switcher-item"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[class="bottom-notice"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[class="site-header"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[id="search"]
-! 2024-05-30 "Hide sidebars on Stack Exchange": https://github.com/dmitrii-fediuk/adblock/issues/31
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[id="left-sidebar"]
-askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##[id="sidebar"]
 baby.ru##[class*="hide_m"]
 baby.ru##[id="side-header"]
 ! 2024-05-17 "Document the changes made between 2024-02-22 and 2024-05-17": https://github.com/dmitrii-fediuk/adblock/issues/12
