@@ -95,16 +95,6 @@ gatesnotes.com##DIV[class="TGN_site_Slideheader"]
 gokcekmarket.com##A[id="scrollUp"]
 ! 2024-05-30 "Hide the chat from gokcekmarket.com": https://github.com/dmitrii-fediuk/adblock/issues/37
 gokcekmarket.com##IFRAME[title="Opens a widget where you can chat to one of our agents"]
-habr.com##DIV[class*="layout__row_services"]
-habr.com##DIV[class*="promo-block"]
-habr.com##DIV[class="main-navbar"]
-habr.com##DIV[class="page-header__banner"]
-! 2024-05-29
-! 1) "Hide the bottom sticky panel from habr.com": https://github.com/dmitrii-fediuk/adblock/issues/27
-! 2) `*` is important here: it hides the panel when the page is scrolling.
-habr.com##DIV[class*="tm-article-sticky-panel"]
-habr.com##DIV[class="tm-page__sidebar"]
-habr.com##SPAN[class="refresh"]
 heictojpg.com##DIV[class="video-container"]
 ! 2024-07-15 "Hide the header from `hub.justuno.com`": https://github.com/dmitrii-fediuk/adblock/issues/69
 hub.justuno.com##HEADER
